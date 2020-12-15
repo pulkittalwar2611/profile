@@ -251,6 +251,7 @@ GEM
 
 PLATFORMS
   ruby
+  universal-darwin-20
 
 DEPENDENCIES
   dotenv
@@ -259,4 +260,4 @@ DEPENDENCIES
   jekyll-github-metadata
 
 BUNDLED WITH
-   2.1.4
+   2.2.1
